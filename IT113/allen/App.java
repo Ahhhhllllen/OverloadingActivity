@@ -17,7 +17,7 @@ public class App {
         
         System.out.println("Hello Mahal kong World!");
         
-        //Calling the greaterValue method with integer parameters to dispaly the sum of 2 numbers
+        //Calling the greaterValue method with integer parameters to display the sum of 2 numbers
          System.out.println("The greater value between 45 and 100 is " + greaterValue(45,100));
 
         
